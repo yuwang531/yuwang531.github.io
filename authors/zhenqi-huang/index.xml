@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhenqi Huang on Academic</title>
+    <link>https://yuwang531.github.io/authors/zhenqi-huang/</link>
+    <description>Recent content in Zhenqi Huang on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yuwang531.github.io/authors/zhenqi-huang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Differential Privacy in Linear Distributed Control Systems: Entropy Minimizing Mechanisms and Performance Tradeoffs</title>
+      <link>https://yuwang531.github.io/publication/wang-differential-privacy-linear-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-differential-privacy-linear-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controller Synthesis for Linear Dynamical Systems with Adversaries</title>
+      <link>https://yuwang531.github.io/publication/huang-controller-synthesis-linear-2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/huang-controller-synthesis-linear-2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Cost of Securing Control Systems</title>
+      <link>https://yuwang531.github.io/publication/huang-analyzing-cost-securing-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/huang-analyzing-cost-securing-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controller Synthesis with Inductive Proofs for Piecewise Linear Systems: An SMT-Based Algorithm</title>
+      <link>https://yuwang531.github.io/publication/huang-controller-synthesis-inductive-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/huang-controller-synthesis-inductive-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy-Minimizing Mechanism for Differential Privacy of Discrete-Time Linear Feedback Systems</title>
+      <link>https://yuwang531.github.io/publication/wang-entropyminimizing-mechanism-differential-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-entropyminimizing-mechanism-differential-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Cost of Differential Privacy in Distributed Control Systems</title>
+      <link>https://yuwang531.github.io/publication/huang-cost-differential-privacy-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/huang-cost-differential-privacy-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

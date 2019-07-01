@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nima Roohi on Academic</title>
+    <link>https://yuwang531.github.io/authors/nima-roohi/</link>
+    <description>Recent content in Nima Roohi on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yuwang531.github.io/authors/nima-roohi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistical Verification of PCTL Using Stratified Samples</title>
+      <link>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability Analysis of Switched Linear Systems Defined by Regular Languages</title>
+      <link>https://yuwang531.github.io/publication/wang-stability-analysis-switched-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-stability-analysis-switched-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Verification of the Toyota Powertrain Control Verification Benchmark</title>
+      <link>https://yuwang531.github.io/publication/roohi-statistical-verification-toyota-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/roohi-statistical-verification-toyota-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verifying Continuous-Time Stochastic Hybrid Systems via Mori-Zwanzig Model Reduction</title>
+      <link>https://yuwang531.github.io/publication/wang-verifying-continuoustime-stochastic-2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-verifying-continuoustime-stochastic-2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mori-Zwanzig and MITL Based Approach to Statistical Verification of Continuous-Time Dynamical Systems**The Authors Acknowledge Support for This Work from NSF CPS Grant 1329991.</title>
+      <link>https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Verification of Dynamical Systems Using Set Oriented Methods</title>
+      <link>https://yuwang531.github.io/publication/wang-statistical-verification-dynamical-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-dynamical-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of Linear Autonomous Systems under Regular Switching Sequences</title>
+      <link>https://yuwang531.github.io/publication/wang-stability-linear-autonomous-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-stability-linear-autonomous-2014-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
