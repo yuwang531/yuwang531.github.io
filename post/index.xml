@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jul 2019 13:59:03 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2019 13:59:03 -0400</lastBuildDate>
     
 	    <atom:link href="https://yuwang531.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Two Papers accepted at CDC 19!</title>
+      <link>https://yuwang531.github.io/post/cdc19/</link>
+      <pubDate>Fri, 19 Jul 2019 13:59:03 -0400</pubDate>
+      
+      <guid>https://yuwang531.github.io/post/cdc19/</guid>
+      <description>&lt;p&gt;Two papers &lt;em&gt;Supervisory Control of Discrete Event Systems in the Presence of Sensor and Actuator Attacks&lt;/em&gt; and &lt;em&gt;Attack-Resilient Supervisory Control with Intermittently Secure Communication&lt;/em&gt; to appear in CDC 19 at Nice, France.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper accepted at EMSOFT 19!</title>
