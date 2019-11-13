@@ -12,32 +12,35 @@
     
     
     <item>
+      <title>New manuscript on reinforcement learning for temporal logic specifications</title>
+      <link>https://yuwang531.github.io/post/cdc19-copy/</link>
+      <pubDate>Fri, 19 Jul 2019 13:59:03 -0400</pubDate>
+      
+      <guid>https://yuwang531.github.io/post/cdc19-copy/</guid>
+      <description>&lt;p&gt;There is a growing interest on formal methods-based robotic motion planning for temporal logic objectives. In
+this work, we extend the scope of existing synthesis methods to
+hyper-temporal logics. We are motivated by the fact that important planning objectives, such as optimality, robustness, and
+privacy, (maybe implicitly) involve the interrelation between
+multiple paths; such objectives are thus hyperproperties, and
+cannot be expressed with usual temporal logics like the linear
+temporal logic (LTL). We show that such hyperproperties can
+be expressed by HyperLTL, an extension of LTL to multiple
+paths. To handle the complexity of motion planning with
+HyperLTL specifications, we introduce a symbolic approach for
+synthesizing planning strategies on discrete transition systems.
+Our planning method is evaluated on several case studies.&lt;/p&gt;
+
+&lt;p&gt;Check &lt;a href=&#34;../icra_hyper.pdf&#34;&gt;this&lt;/a&gt; for details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Two Papers accepted at CDC 19!</title>
       <link>https://yuwang531.github.io/post/cdc19/</link>
       <pubDate>Fri, 19 Jul 2019 13:59:03 -0400</pubDate>
       
       <guid>https://yuwang531.github.io/post/cdc19/</guid>
-      <description>&lt;p&gt;Two papers &lt;a href=&#34;../cdc1.pdf&#34;&gt;Supervisory Control of Discrete Event Systems in the Presence of Sensor and Actuator Attacks&lt;/a&gt; and &lt;a href=&#34;../cdc2.pdf&#34;&gt;Attack-Resilient Supervisory Control with Intermittently Secure Communication&lt;/a&gt; to appear in CDC 19 at Nice, France.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Paper accepted at EMSOFT 19!</title>
-      <link>https://yuwang531.github.io/post/emsoft19/</link>
-      <pubDate>Sat, 13 Jul 2019 13:59:03 -0400</pubDate>
-      
-      <guid>https://yuwang531.github.io/post/emsoft19/</guid>
-      <description>&lt;p&gt;Paper &lt;a href=&#34;https://arxiv.org/abs/1906.07253&#34; target=&#34;_blank&#34;&gt;Statistical Verification of Hyperproperties for Cyber-Physical System&lt;/a&gt; accepted to EMSOFT 19.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Paper accepted by JCGS!</title>
-      <link>https://yuwang531.github.io/post/jcgs19/</link>
-      <pubDate>Sat, 13 Jul 2019 13:59:03 -0400</pubDate>
-      
-      <guid>https://yuwang531.github.io/post/jcgs19/</guid>
-      <description>&lt;p&gt;Paper &lt;a href=&#34;../jcgs.pdf&#34;&gt;&lt;em&gt;A Logistic Factorization Model for Recommender Systems with Multinomial Responses&lt;/em&gt;&lt;/a&gt; accepted by Journal of Computational and Graphical Statistics.&lt;/p&gt;
+      <description>&lt;p&gt;Two of our papers &lt;a href=&#34;../cdc1.pdf&#34;&gt;Supervisory Control of Discrete Event Systems in the Presence of Sensor and Actuator Attacks&lt;/a&gt; and &lt;a href=&#34;../cdc2.pdf&#34;&gt;Attack-Resilient Supervisory Control with Intermittently Secure Communication&lt;/a&gt; are to appear at CDC 19 at Nice, France.&lt;/p&gt;
 </description>
     </item>
     

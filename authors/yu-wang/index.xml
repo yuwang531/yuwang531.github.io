@@ -1,22 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yu Wang on Academic</title>
+    <title>Yu Wang</title>
     <link>https://yuwang531.github.io/authors/yu-wang/</link>
-    <description>Recent content in Yu Wang on Academic</description>
+    <description>Recent content on Yu Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yuwang531.github.io/authors/yu-wang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Attack-Resilient Supervisory Control of Discrete-Event Systems</title>
-      <link>https://yuwang531.github.io/publication/wang-attack-resilient-supervisory-control-2019/</link>
+      <title>Control Synthesis from Linear Temporal Logic Specifications Using Model-Free Reinforcement Learning</title>
+      <link>https://yuwang531.github.io/publication/bozkurt-control-synthesis-linear-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/bozkurt-control-synthesis-linear-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperproperties for Robotics: Motion Planning via HyperLTL</title>
+      <link>https://yuwang531.github.io/publication/wang-hyperproperties-robotics-motion-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-hyperproperties-robotics-motion-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical  Verification  of  Learning-Enabled  Controlled  Systems</title>
+      <link>https://yuwang531.github.io/publication/zarei-statistical-verification-learning-enabled-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/zarei-statistical-verification-learning-enabled-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verifying PCTL* Specifications on Markov Decision Processes via Reinforcement Learning</title>
+      <link>https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Logistic Factorization Model for Recommender Systems with Multinomial Responses</title>
+      <link>https://yuwang531.github.io/publication/wang-logistic-factorization-model-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-attack-resilient-supervisory-control-2019/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-logistic-factorization-model-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attack-Resilient Supervisory Control of Discrete-Event Systems</title>
+      <link>https://yuwang531.github.io/publication/wang-attackresilient-supervisory-control-2019-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-attackresilient-supervisory-control-2019-a/</guid>
       <description></description>
     </item>
     
@@ -31,10 +76,10 @@
     
     <item>
       <title>Security-Aware Synthesis Using Delayed-Action Games</title>
-      <link>https://yuwang531.github.io/publication/elfar-security-aware-synthesis-using-2019/</link>
+      <link>https://yuwang531.github.io/publication/elfar-securityaware-synthesis-using-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/elfar-security-aware-synthesis-using-2019/</guid>
+      <guid>https://yuwang531.github.io/publication/elfar-securityaware-synthesis-using-2019/</guid>
       <description></description>
     </item>
     
@@ -48,20 +93,20 @@
     </item>
     
     <item>
-      <title>Statistical Verification and Differential Privacy in Cyber-Physical Systems</title>
-      <link>https://yuwang531.github.io/publication/wang-statistical-verification-differential-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-differential-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Statistical Verification of Hyperproperties for Cyber-Physical Systems</title>
       <link>https://yuwang531.github.io/publication/wang-statistical-verification-hyperproperties-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yuwang531.github.io/publication/wang-statistical-verification-hyperproperties-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Verification of PCTL Using Antithetic and Stratified Samples</title>
+      <link>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2019/</guid>
       <description></description>
     </item>
     
@@ -75,128 +120,137 @@
     </item>
     
     <item>
-      <title>Statistical Verification of PCTL Using Stratified Samples</title>
-      <link>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2018-a/</link>
+      <title>Verifying Stochastic Hybrid Systems with Temporal Logic Specifications via Mori-Zwanzig Model Reduction</title>
+      <link>https://yuwang531.github.io/publication/wang-verifying-stochastic-hybrid-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-verifying-stochastic-hybrid-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Verification and Differential Privacy in Cyber-Physical Systems</title>
+      <link>https://yuwang531.github.io/publication/wang-statistical-verification-differential-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2018-a/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-differential-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Verification of PCTL Using Stratified Samples</title>
+      <link>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential Privacy and Minimum-Variance Unbiased Estimation in Multi-Agent Control Systems</title>
-      <link>https://yuwang531.github.io/publication/wang-differential-privacy-minimum-variance-2017/</link>
+      <link>https://yuwang531.github.io/publication/wang-differential-privacy-minimumvariance-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-differential-privacy-minimum-variance-2017/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-differential-privacy-minimumvariance-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential Privacy in Linear Distributed Control Systems: Entropy Minimizing Mechanisms and Performance Tradeoffs</title>
-      <link>https://yuwang531.github.io/publication/wang-differential-privacy-linear-2017-a/</link>
+      <link>https://yuwang531.github.io/publication/wang-differential-privacy-linear-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-differential-privacy-linear-2017-a/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-differential-privacy-linear-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stability Analysis of Switched Linear Systems Defined by Regular Languages</title>
-      <link>https://yuwang531.github.io/publication/wang-stability-analysis-switched-2017-a/</link>
+      <link>https://yuwang531.github.io/publication/wang-stability-analysis-switched-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-stability-analysis-switched-2017-a/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-stability-analysis-switched-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Verification of the Toyota Powertrain Control Verification Benchmark</title>
-      <link>https://yuwang531.github.io/publication/roohi-statistical-verification-toyota-2017-a/</link>
+      <link>https://yuwang531.github.io/publication/roohi-statistical-verification-toyota-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/roohi-statistical-verification-toyota-2017-a/</guid>
+      <guid>https://yuwang531.github.io/publication/roohi-statistical-verification-toyota-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Controller Synthesis for Linear Dynamical Systems with Adversaries</title>
-      <link>https://yuwang531.github.io/publication/huang-controller-synthesis-linear-2016-a/</link>
+      <link>https://yuwang531.github.io/publication/huang-controller-synthesis-linear-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/huang-controller-synthesis-linear-2016-a/</guid>
+      <guid>https://yuwang531.github.io/publication/huang-controller-synthesis-linear-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentially Private Objective Functions in Distributed Cloud-Based Optimization</title>
-      <link>https://yuwang531.github.io/publication/wang-differentially-private-objective-2016-a/</link>
+      <link>https://yuwang531.github.io/publication/wang-differentially-private-objective-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-differentially-private-objective-2016-a/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-differentially-private-objective-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verifying Continuous-Time Stochastic Hybrid Systems via Mori-Zwanzig Model Reduction</title>
-      <link>https://yuwang531.github.io/publication/wang-verifying-continuoustime-stochastic-2016-a/</link>
+      <link>https://yuwang531.github.io/publication/wang-verifying-continuoustime-stochastic-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-verifying-continuoustime-stochastic-2016-a/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-verifying-continuoustime-stochastic-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Mori-Zwanzig and MITL Based Approach to Statistical Verification of Continuous-Time Dynamical Systems</title>
-      <link>https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015-a/</link>
+      <link>https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analyzing the Cost of Securing Control Systems</title>
-      <link>https://yuwang531.github.io/publication/huang-analyzing-cost-securing-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/publication/huang-analyzing-cost-securing-2015/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Controller Synthesis with Inductive Proofs for Piecewise Linear Systems: An SMT-Based Algorithm</title>
-      <link>https://yuwang531.github.io/publication/huang-controller-synthesis-inductive-2015-a/</link>
+      <link>https://yuwang531.github.io/publication/huang-controller-synthesis-inductive-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/huang-controller-synthesis-inductive-2015-a/</guid>
+      <guid>https://yuwang531.github.io/publication/huang-controller-synthesis-inductive-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Verification of Dynamical Systems Using Set Oriented Methods</title>
-      <link>https://yuwang531.github.io/publication/wang-statistical-verification-dynamical-2015-a/</link>
+      <link>https://yuwang531.github.io/publication/wang-statistical-verification-dynamical-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-dynamical-2015-a/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-dynamical-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Study of Dynamic Contact Angles of Shear-Thickening Power-Law Fluids</title>
-      <link>https://yuwang531.github.io/publication/wang-study-dynamic-contact-2014-a/</link>
+      <link>https://yuwang531.github.io/publication/wang-study-dynamic-contact-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-study-dynamic-contact-2014-a/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-study-dynamic-contact-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entropy-Minimizing Mechanism for Differential Privacy of Discrete-Time Linear Feedback Systems</title>
-      <link>https://yuwang531.github.io/publication/wang-entropyminimizing-mechanism-differential-2014-a/</link>
+      <link>https://yuwang531.github.io/publication/wang-entropyminimizing-mechanism-differential-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-entropyminimizing-mechanism-differential-2014-a/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-entropyminimizing-mechanism-differential-2014/</guid>
       <description></description>
     </item>
     
@@ -211,10 +265,10 @@
     
     <item>
       <title>Stability of Linear Autonomous Systems under Regular Switching Sequences</title>
-      <link>https://yuwang531.github.io/publication/wang-stability-linear-autonomous-2014-a/</link>
+      <link>https://yuwang531.github.io/publication/wang-stability-linear-autonomous-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-stability-linear-autonomous-2014-a/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-stability-linear-autonomous-2014/</guid>
       <description></description>
     </item>
     

@@ -3,31 +3,132 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yuwang531.github.io/publication_types/1/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/alper-kamil-bozkurt/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/bozkurt-control-synthesis-linear-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/geir-e.-dullerud/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/wang-hyperproperties-robotics-motion-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/mahesh-viswanathan/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/matthew-west/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/michael-zavlanos/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/miroslav-pajic/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/mojtaba-zarei/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/nima-roohi/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication_types/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/zarei-statistical-verification-learning-enabled-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/yu-wang/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yuwang531.github.io/</loc>
-    <lastmod>2019-07-19T13:59:03-04:00</lastmod>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/post/</loc>
-    <lastmod>2019-07-19T13:59:03-04:00</lastmod>
+    <loc>https://yuwang531.github.io/talk/19_11_21_cps_pi/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/tags/</loc>
-    <lastmod>2019-07-19T13:59:03-04:00</lastmod>
+    <loc>https://yuwang531.github.io/talk/19_11_14_scc/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/talk/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/post/cdc19/</loc>
-    <lastmod>2019-07-19T13:59:03-04:00</lastmod>
+    <loc>https://yuwang531.github.io/talk/19_10_23_emsoft/</loc>
+    <lastmod>2019-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/tags/research/</loc>
-    <lastmod>2019-07-19T13:59:03-04:00</lastmod>
-    <priority>0</priority>
+    <loc>https://yuwang531.github.io/talk/19_09_23_isu/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -42,17 +143,31 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/post/emsoft19/</loc>
-    <lastmod>2019-07-13T13:59:03-04:00</lastmod>
+    <loc>https://yuwang531.github.io/authors/csrl/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/post/jcgs19/</loc>
-    <lastmod>2019-07-13T13:59:03-04:00</lastmod>
+    <loc>https://yuwang531.github.io/authors/hypersmc/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication_types/1/</loc>
+    <loc>https://yuwang531.github.io/authors/mphyper/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/stmc/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication_types/0/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -64,31 +179,29 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication_types/7/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-logistic-factorization-model-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/arsc-https-github-com-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/annie-qu/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/authors/alper-kamil-bozkurt/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication/wang-attack-resilient-supervisory-control-2019/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-attackresilient-supervisory-control-2019-a/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://yuwang531.github.io/publication/wang-attackresilient-supervisory-control-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/authors/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -104,30 +217,7 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/authors/miroslav-pajic/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/authors/mojtaba-zarei/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication_types/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication/elfar-security-aware-synthesis-using-2019/</loc>
+    <loc>https://yuwang531.github.io/publication/elfar-securityaware-synthesis-using-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,12 +233,12 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/wang-statistical-verification-differential-2019/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-statistical-verification-hyperproperties-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/wang-statistical-verification-hyperproperties-2019/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,47 +248,59 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/authors/yu-wang/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-verifying-stochastic-hybrid-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/xuan-bi/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/authors/geir-e.-dullerud/</loc>
+    <loc>https://yuwang531.github.io/publication/csrl-https-github-com-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/hypersmc-https-gitlab-oit-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/mphyper-https-gitlab-oit-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/stmc-https-nimaroohi-github-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication_types/7/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/authors/mahesh-viswanathan/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/authors/matthew-west/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/authors/nima-roohi/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2018-a/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-statistical-verification-differential-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/wang-differential-privacy-minimum-variance-2017/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/wang-differential-privacy-minimumvariance-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/wang-differential-privacy-linear-2017-a/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-differential-privacy-linear-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -209,12 +311,12 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/wang-stability-analysis-switched-2017-a/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-stability-analysis-switched-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/roohi-statistical-verification-toyota-2017-a/</loc>
+    <loc>https://yuwang531.github.io/publication/roohi-statistical-verification-toyota-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -225,12 +327,12 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/huang-controller-synthesis-linear-2016-a/</loc>
+    <loc>https://yuwang531.github.io/publication/huang-controller-synthesis-linear-2016/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/wang-differentially-private-objective-2016-a/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-differentially-private-objective-2016/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -247,27 +349,22 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/wang-verifying-continuoustime-stochastic-2016-a/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-verifying-continuoustime-stochastic-2016/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015-a/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/huang-analyzing-cost-securing-2015/</loc>
+    <loc>https://yuwang531.github.io/publication/huang-controller-synthesis-inductive-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/huang-controller-synthesis-inductive-2015-a/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication/wang-statistical-verification-dynamical-2015-a/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-statistical-verification-dynamical-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -278,12 +375,12 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/wang-study-dynamic-contact-2014-a/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-study-dynamic-contact-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/wang-entropyminimizing-mechanism-differential-2014-a/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-entropyminimizing-mechanism-differential-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -299,7 +396,7 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/wang-stability-linear-autonomous-2014-a/</loc>
+    <loc>https://yuwang531.github.io/publication/wang-stability-linear-autonomous-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -318,7 +415,8 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/talk/</loc>
+    <loc>https://yuwang531.github.io/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

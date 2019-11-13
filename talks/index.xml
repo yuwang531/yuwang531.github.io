@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Yu Wang</title>
+    <link>https://yuwang531.github.io/talks/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Yu Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2019 15:19:57 -0500</lastBuildDate>
+    
+	    <atom:link href="https://yuwang531.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Invited Talk at Iowa State University</title>
+      <link>https://yuwang531.github.io/talks/isu_19_09/</link>
+      <pubDate>Tue, 12 Nov 2019 15:19:57 -0500</pubDate>
+      
+      <guid>https://yuwang531.github.io/talks/isu_19_09/</guid>
+      <description>&lt;p&gt;Title: Verifying the security of cyber-physical systems&lt;/p&gt;
+
+&lt;p&gt;Abstract: Cyber-Physical Systems (CPS) operate in a wide range of applications, where their security is a major concern. Verifying security properties, commonly specified by temporal logics, can be difficult, due to either the lack of accurate models or the models’ complexity. In this talk, several recent efforts on addressing this problem will be presented. First, I will present a new model reduction method for building approximate bisimulations between complex CPS and finite state Markov chains. Then, I will present a few new statistical model checking techniques using anti-correlated samples and reinforcement learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

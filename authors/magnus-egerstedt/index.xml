@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Magnus Egerstedt on Academic</title>
+    <title>Magnus Egerstedt on Yu Wang</title>
     <link>https://yuwang531.github.io/authors/magnus-egerstedt/</link>
-    <description>Recent content in Magnus Egerstedt on Academic</description>
+    <description>Recent content in Magnus Egerstedt on Yu Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Differentially Private Objective Functions in Distributed Cloud-Based Optimization</title>
-      <link>https://yuwang531.github.io/publication/wang-differentially-private-objective-2016-a/</link>
+      <link>https://yuwang531.github.io/publication/wang-differentially-private-objective-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-differentially-private-objective-2016-a/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-differentially-private-objective-2016/</guid>
       <description></description>
     </item>
     

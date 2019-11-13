@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Swarat Chaudhuri on Academic</title>
+    <title>Swarat Chaudhuri on Yu Wang</title>
     <link>https://yuwang531.github.io/authors/swarat-chaudhuri/</link>
-    <description>Recent content in Swarat Chaudhuri on Academic</description>
+    <description>Recent content in Swarat Chaudhuri on Yu Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Controller Synthesis with Inductive Proofs for Piecewise Linear Systems: An SMT-Based Algorithm</title>
-      <link>https://yuwang531.github.io/publication/huang-controller-synthesis-inductive-2015-a/</link>
+      <link>https://yuwang531.github.io/publication/huang-controller-synthesis-inductive-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/huang-controller-synthesis-inductive-2015-a/</guid>
+      <guid>https://yuwang531.github.io/publication/huang-controller-synthesis-inductive-2015/</guid>
       <description></description>
     </item>
     

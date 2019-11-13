@@ -1,58 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Matthew West on Academic</title>
+    <title>Matthew West on Yu Wang</title>
     <link>https://yuwang531.github.io/authors/matthew-west/</link>
-    <description>Recent content in Matthew West on Academic</description>
+    <description>Recent content in Matthew West on Yu Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yuwang531.github.io/authors/matthew-west/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Verifying PCTL* Specifications on Markov Decision Processes via Reinforcement Learning</title>
+      <link>https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Verification of PCTL Using Antithetic and Stratified Samples</title>
+      <link>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verifying Stochastic Hybrid Systems with Temporal Logic Specifications via Mori-Zwanzig Model Reduction</title>
+      <link>https://yuwang531.github.io/publication/wang-verifying-stochastic-hybrid-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-verifying-stochastic-hybrid-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Statistical Verification of PCTL Using Stratified Samples</title>
-      <link>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2018-a/</link>
+      <link>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2018-a/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Verification of the Toyota Powertrain Control Verification Benchmark</title>
-      <link>https://yuwang531.github.io/publication/roohi-statistical-verification-toyota-2017-a/</link>
+      <link>https://yuwang531.github.io/publication/roohi-statistical-verification-toyota-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/roohi-statistical-verification-toyota-2017-a/</guid>
+      <guid>https://yuwang531.github.io/publication/roohi-statistical-verification-toyota-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verifying Continuous-Time Stochastic Hybrid Systems via Mori-Zwanzig Model Reduction</title>
-      <link>https://yuwang531.github.io/publication/wang-verifying-continuoustime-stochastic-2016-a/</link>
+      <link>https://yuwang531.github.io/publication/wang-verifying-continuoustime-stochastic-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-verifying-continuoustime-stochastic-2016-a/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-verifying-continuoustime-stochastic-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Mori-Zwanzig and MITL Based Approach to Statistical Verification of Continuous-Time Dynamical Systems</title>
-      <link>https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015-a/</link>
+      <link>https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015-a/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Verification of Dynamical Systems Using Set Oriented Methods</title>
-      <link>https://yuwang531.github.io/publication/wang-statistical-verification-dynamical-2015-a/</link>
+      <link>https://yuwang531.github.io/publication/wang-statistical-verification-dynamical-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-dynamical-2015-a/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-dynamical-2015/</guid>
       <description></description>
     </item>
     

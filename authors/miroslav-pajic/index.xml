@@ -1,22 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Miroslav Pajic on Academic</title>
+    <title>Miroslav Pajic on Yu Wang</title>
     <link>https://yuwang531.github.io/authors/miroslav-pajic/</link>
-    <description>Recent content in Miroslav Pajic on Academic</description>
+    <description>Recent content in Miroslav Pajic on Yu Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yuwang531.github.io/authors/miroslav-pajic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Control Synthesis from Linear Temporal Logic Specifications Using Model-Free Reinforcement Learning</title>
+      <link>https://yuwang531.github.io/publication/bozkurt-control-synthesis-linear-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/bozkurt-control-synthesis-linear-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperproperties for Robotics: Motion Planning via HyperLTL</title>
+      <link>https://yuwang531.github.io/publication/wang-hyperproperties-robotics-motion-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-hyperproperties-robotics-motion-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical  Verification  of  Learning-Enabled  Controlled  Systems</title>
+      <link>https://yuwang531.github.io/publication/zarei-statistical-verification-learning-enabled-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/zarei-statistical-verification-learning-enabled-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Attack-Resilient Supervisory Control of Discrete-Event Systems</title>
-      <link>https://yuwang531.github.io/publication/wang-attack-resilient-supervisory-control-2019/</link>
+      <link>https://yuwang531.github.io/publication/wang-attackresilient-supervisory-control-2019-a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-attack-resilient-supervisory-control-2019/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-attackresilient-supervisory-control-2019-a/</guid>
       <description></description>
     </item>
     
@@ -31,10 +58,10 @@
     
     <item>
       <title>Security-Aware Synthesis Using Delayed-Action Games</title>
-      <link>https://yuwang531.github.io/publication/elfar-security-aware-synthesis-using-2019/</link>
+      <link>https://yuwang531.github.io/publication/elfar-securityaware-synthesis-using-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/elfar-security-aware-synthesis-using-2019/</guid>
+      <guid>https://yuwang531.github.io/publication/elfar-securityaware-synthesis-using-2019/</guid>
       <description></description>
     </item>
     
