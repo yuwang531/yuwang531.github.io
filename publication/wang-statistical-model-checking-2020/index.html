@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="In this work, we introduce a framework for the statistical verification of Metric Interval Temporal Logic (MITL) formulas on continuous-time dynamical systems. By considering the continuous-time Markov process associated with the dynamical system, we apply the Mori-Zwanzig method to reduce the original system to a Continuous-Time Markov Chain (CTMC). Accordingly, the MITL formulas on the original system can be reduced to MITL formulas on the CTMC. Furthermore, we propose a statistical verification algorithm for checking the MITL formulas on the CTMCand show that the original MITL formulas on the original system can be checked by this procedure.">
+  <meta name="description" content="In this paper, we propose the temporal logic HyperPCTL*  that extends PCTL  and HyperPCTL to reason about probabilistic hyperproperties. It allows expressing probabilistic hyperproperties with nested temporal and probability operators. We show that HyperPCTL* can express important probabilistic information-flow security policies. Furthermore, for the first time, we investigate statistical model checking (SMC) algorithms for HyperPCTL*  specifications in discrete-time Markov chains (DTMC). To this end, we first study SMC for HyperPCTL*  specifications with non-nested probability operators for a desired confidence or significance level. Unlike existing SMC algorithms which are based on sequential probability ratio tests (SPRT), we use the Clopper-Pearson confidence interval to avoid the need of a priori knowledge on the indifference margin. Then, we extend the proposed SMC algorithms to HyperPCTL*  specifications with multiple probability operators that are nested in different ways. Finally, we evaluate the proposed algorithms on two examples, dining cryptographers and probabilistic causation.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015/">
+  <link rel="alternate" hreflang="en-us" href="https://yuwang531.github.io/publication/wang-statistical-model-checking-2020/">
 
   
 
@@ -96,7 +96,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015/">
+  <link rel="canonical" href="https://yuwang531.github.io/publication/wang-statistical-model-checking-2020/">
 
   
   
@@ -108,14 +108,14 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Yu Wang">
-  <meta property="og:url" content="https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015/">
-  <meta property="og:title" content="A Mori-Zwanzig and MITL Based Approach to Statistical Verification of Continuous-Time Dynamical Systems | Yu Wang">
-  <meta property="og:description" content="In this work, we introduce a framework for the statistical verification of Metric Interval Temporal Logic (MITL) formulas on continuous-time dynamical systems. By considering the continuous-time Markov process associated with the dynamical system, we apply the Mori-Zwanzig method to reduce the original system to a Continuous-Time Markov Chain (CTMC). Accordingly, the MITL formulas on the original system can be reduced to MITL formulas on the CTMC. Furthermore, we propose a statistical verification algorithm for checking the MITL formulas on the CTMCand show that the original MITL formulas on the original system can be checked by this procedure."><meta property="og:image" content="https://yuwang531.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://yuwang531.github.io/publication/wang-statistical-model-checking-2020/">
+  <meta property="og:title" content="Statistical Model Checking for Hyperproperties | Yu Wang">
+  <meta property="og:description" content="In this paper, we propose the temporal logic HyperPCTL*  that extends PCTL  and HyperPCTL to reason about probabilistic hyperproperties. It allows expressing probabilistic hyperproperties with nested temporal and probability operators. We show that HyperPCTL* can express important probabilistic information-flow security policies. Furthermore, for the first time, we investigate statistical model checking (SMC) algorithms for HyperPCTL*  specifications in discrete-time Markov chains (DTMC). To this end, we first study SMC for HyperPCTL*  specifications with non-nested probability operators for a desired confidence or significance level. Unlike existing SMC algorithms which are based on sequential probability ratio tests (SPRT), we use the Clopper-Pearson confidence interval to avoid the need of a priori knowledge on the indifference margin. Then, we extend the proposed SMC algorithms to HyperPCTL*  specifications with multiple probability operators that are nested in different ways. Finally, we evaluate the proposed algorithms on two examples, dining cryptographers and probabilistic causation."><meta property="og:image" content="https://yuwang531.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://yuwang531.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2019-11-13T00:53:51&#43;00:00">
   
-  <meta property="article:modified_time" content="2015-01-01T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2020-01-01T00:00:00&#43;00:00">
   
 
   
@@ -127,7 +127,7 @@
 
 
 
-  <title>A Mori-Zwanzig and MITL Based Approach to Statistical Verification of Continuous-Time Dynamical Systems | Yu Wang</title>
+  <title>Statistical Model Checking for Hyperproperties | Yu Wang</title>
 
 </head>
 
@@ -352,7 +352,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">A Mori-Zwanzig and MITL Based Approach to Statistical Verification of Continuous-Time Dynamical Systems</h1>
+  <h1 itemprop="name">Statistical Model Checking for Hyperproperties</h1>
 
   
 
@@ -361,8 +361,8 @@
 
 
 
-<meta content="2015-01-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2015-01-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2020-01-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2020-01-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -375,7 +375,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/yu-wang/">Yu Wang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/nima-roohi/">Nima Roohi</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/matthew-west/">Matthew West</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/mahesh-viswanathan/">Mahesh Viswanathan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/geir-e.-dullerud/">Geir E. Dullerud</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/yu-wang/">Yu Wang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/siddhartha-nalluri/">Siddhartha Nalluri</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/borzoo-bonakdarpour/">Borzoo Bonakdarpour</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/miroslav-pajic/">Miroslav Pajic</a></span>
 
   </div>
   
@@ -387,7 +387,7 @@
     
       
     
-    <time>January 2015</time>
+    <time>January 2020</time>
   </span>
   
 
@@ -414,7 +414,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015/&amp;text=A%20Mori-Zwanzig%20and%20MITL%20Based%20Approach%20to%20Statistical%20Verification%20of%20Continuous-Time%20Dynamical%20Systems" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://yuwang531.github.io/publication/wang-statistical-model-checking-2020/&amp;text=Statistical%20Model%20Checking%20for%20Hyperproperties" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -427,7 +427,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015/&amp;t=A%20Mori-Zwanzig%20and%20MITL%20Based%20Approach%20to%20Statistical%20Verification%20of%20Continuous-Time%20Dynamical%20Systems" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://yuwang531.github.io/publication/wang-statistical-model-checking-2020/&amp;t=Statistical%20Model%20Checking%20for%20Hyperproperties" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -440,7 +440,7 @@
       
       
       <li>
-        <a href="mailto:?subject=A%20Mori-Zwanzig%20and%20MITL%20Based%20Approach%20to%20Statistical%20Verification%20of%20Continuous-Time%20Dynamical%20Systems&amp;body=https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Statistical%20Model%20Checking%20for%20Hyperproperties&amp;body=https://yuwang531.github.io/publication/wang-statistical-model-checking-2020/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -453,7 +453,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015/&amp;title=A%20Mori-Zwanzig%20and%20MITL%20Based%20Approach%20to%20Statistical%20Verification%20of%20Continuous-Time%20Dynamical%20Systems" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://yuwang531.github.io/publication/wang-statistical-model-checking-2020/&amp;title=Statistical%20Model%20Checking%20for%20Hyperproperties" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -466,7 +466,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=A%20Mori-Zwanzig%20and%20MITL%20Based%20Approach%20to%20Statistical%20Verification%20of%20Continuous-Time%20Dynamical%20Systems%20https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Statistical%20Model%20Checking%20for%20Hyperproperties%20https://yuwang531.github.io/publication/wang-statistical-model-checking-2020/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -479,7 +479,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://yuwang531.github.io/publication/wang-mori-zwanzig-mitl-based-2015/&amp;title=A%20Mori-Zwanzig%20and%20MITL%20Based%20Approach%20to%20Statistical%20Verification%20of%20Continuous-Time%20Dynamical%20Systems" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://yuwang531.github.io/publication/wang-statistical-model-checking-2020/&amp;title=Statistical%20Model%20Checking%20for%20Hyperproperties" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -516,7 +516,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">In this work, we introduce a framework for the statistical verification of Metric Interval Temporal Logic (MITL) formulas on continuous-time dynamical systems. By considering the continuous-time Markov process associated with the dynamical system, we apply the Mori-Zwanzig method to reduce the original system to a Continuous-Time Markov Chain (CTMC). Accordingly, the MITL formulas on the original system can be reduced to MITL formulas on the CTMC. Furthermore, we propose a statistical verification algorithm for checking the MITL formulas on the CTMCand show that the original MITL formulas on the original system can be checked by this procedure.</p>
+    <p class="pub-abstract" itemprop="text">In this paper, we propose the temporal logic HyperPCTL*  that extends PCTL  and HyperPCTL to reason about probabilistic hyperproperties. It allows expressing probabilistic hyperproperties with nested temporal and probability operators. We show that HyperPCTL* can express important probabilistic information-flow security policies. Furthermore, for the first time, we investigate statistical model checking (SMC) algorithms for HyperPCTL*  specifications in discrete-time Markov chains (DTMC). To this end, we first study SMC for HyperPCTL*  specifications with non-nested probability operators for a desired confidence or significance level. Unlike existing SMC algorithms which are based on sequential probability ratio tests (SPRT), we use the Clopper-Pearson confidence interval to avoid the need of a priori knowledge on the indifference margin. Then, we extend the proposed SMC algorithms to HyperPCTL*  specifications with multiple probability operators that are nested in different ways. Finally, we evaluate the proposed algorithms on two examples, dining cryptographers and probabilistic causation.</p>
     
 
     
@@ -546,7 +546,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>5th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), IFAC-PapersOnLine</em></div>
+          <div class="col-12 col-md-9"><em>International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS) (Under Review)</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>

@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>STMC: Statistical Model Checker with Stratified and Antithetic Sampling</title>
+      <link>https://yuwang531.github.io/publication/roohi-stmc-statistical-model-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/roohi-stmc-statistical-model-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Statistical  Verification  of  Learning-Enabled  Controlled  Systems</title>
       <link>https://yuwang531.github.io/publication/zarei-statistical-verification-learning-enabled-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -39,7 +48,16 @@
     </item>
     
     <item>
-      <title>Verifying PCTL* Specifications on Markov Decision Processes via Reinforcement Learning</title>
+      <title>Statistical Model Checking for Hyperproperties</title>
+      <link>https://yuwang531.github.io/publication/wang-statistical-model-checking-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-statistical-model-checking-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verifying PCTL Specifications on Markov Decision Processes via Reinforcement Learning</title>
       <link>https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
@@ -80,15 +98,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yuwang531.github.io/publication/elfar-securityaware-synthesis-using-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical Model Checking for Probabilistic Hyperproperties</title>
-      <link>https://yuwang531.github.io/publication/wang-statistical-model-checking-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/publication/wang-statistical-model-checking-2019/</guid>
       <description></description>
     </item>
     

@@ -21,8 +21,20 @@
   </url>
   
   <url>
+    <loc>https://yuwang531.github.io/authors/borzoo-bonakdarpour/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yuwang531.github.io/publication/bozkurt-control-synthesis-linear-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/geir-e-dullerud/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -81,10 +93,27 @@
   <url>
     <loc>https://yuwang531.github.io/publication/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/roohi-stmc-statistical-model-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/siddhartha-nalluri/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yuwang531.github.io/publication/zarei-statistical-verification-learning-enabled-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/wang-statistical-model-checking-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,36 +172,6 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/authors/csrl/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/authors/hypersmc/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/authors/mphyper/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/authors/stmc/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication_types/0/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yuwang531.github.io/publication_types/2/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -180,11 +179,6 @@
   
   <url>
     <loc>https://yuwang531.github.io/publication/wang-logistic-factorization-model-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication/arsc-https-github-com-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -205,12 +199,6 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/authors/borzoo-bonakdarpour/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yuwang531.github.io/authors/mahmoud-elfar/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -218,17 +206,6 @@
   
   <url>
     <loc>https://yuwang531.github.io/publication/elfar-securityaware-synthesis-using-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/authors/siddhartha-nalluri/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication/wang-statistical-model-checking-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -256,26 +233,6 @@
     <loc>https://yuwang531.github.io/authors/xuan-bi/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication/csrl-https-github-com-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication/hypersmc-https-gitlab-oit-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication/mphyper-https-gitlab-oit-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication/stmc-https-nimaroohi-github-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
