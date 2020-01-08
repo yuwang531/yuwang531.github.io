@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="We propose a new statistical verification technique for PCTL$*̂$ logic, which unifies Probabilistic Computational Tree Logic (PCTL) and Linear Time Logic (LTL), on labeled Markov Decision Processes (MDPs) with unknown transition probabilities using reinforcement learning. We first show that verifying a non-nested PCTL$̂$ formula on a MDP is equivalent to estimating the reachability probability of a goal set on the product MDP of the original MDP and a Muller automaton modeling the corresponding LTL specification. Then, we develop Q-learning algorithms to statistically estimate reachability probability on the product MDP, with the optimal policy identified and evaluated using the principle of optimism in the face of uncertainty (OFU). Specifically, we construct upper confidence bounds (UCB) for each state-action pair from previous samples, and explore the best action with the highest UCB. Using the OFU principle, we design termination conditions for any desired confidence level, and prove the correctness of the proposed algorithms. Finally, we evaluate the proposed algorithms on several case studies.">
+  <meta name="description" content="Sensors and actuators are key control components of Unmanned Autonomous Vehicles (UAVs). UAVs use them in a feedback-based control loop with the software components to accomplish goals. Today, we know that UAVs are susceptible to multiple forms of sensor spoofing attacks such as false data injection via Man-in-the-Middle (MitM) attacks and counterfeit signal generation. In this paper we pose two questions (a) ``Can a group of networked, distributed, UAVs (i.e., swarm) provide protection against sensor spoofing attacks?&#39;&#39; and (b) ``can modeling swarms using data-driven techniques provide defense against sensor data injection attacks?&#39;&#39;. Using Software-In-The-Loop (SITL) simulations, we analyze the feasibility of learning the behavior of a UAV using a deep learning model. We use robustness testing and feasibility of data augmentation using Generative Adversarial Networks (GANs) for this purpose.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/">
+  <link rel="alternate" hreflang="en-us" href="https://yuwang531.github.io/publication/kim-security-analysis-spoofing-2020/">
 
   
 
@@ -109,7 +109,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/">
+  <link rel="canonical" href="https://yuwang531.github.io/publication/kim-security-analysis-spoofing-2020/">
 
   
   
@@ -121,12 +121,12 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Yu Wang">
-  <meta property="og:url" content="https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/">
-  <meta property="og:title" content="Verifying PCTL Specifications on Markov Decision Processes via Reinforcement Learning | Yu Wang">
-  <meta property="og:description" content="We propose a new statistical verification technique for PCTL$*̂$ logic, which unifies Probabilistic Computational Tree Logic (PCTL) and Linear Time Logic (LTL), on labeled Markov Decision Processes (MDPs) with unknown transition probabilities using reinforcement learning. We first show that verifying a non-nested PCTL$̂$ formula on a MDP is equivalent to estimating the reachability probability of a goal set on the product MDP of the original MDP and a Muller automaton modeling the corresponding LTL specification. Then, we develop Q-learning algorithms to statistically estimate reachability probability on the product MDP, with the optimal policy identified and evaluated using the principle of optimism in the face of uncertainty (OFU). Specifically, we construct upper confidence bounds (UCB) for each state-action pair from previous samples, and explore the best action with the highest UCB. Using the OFU principle, we design termination conditions for any desired confidence level, and prove the correctness of the proposed algorithms. Finally, we evaluate the proposed algorithms on several case studies."><meta property="og:image" content="https://yuwang531.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://yuwang531.github.io/publication/kim-security-analysis-spoofing-2020/">
+  <meta property="og:title" content="Security Analysis against Spoofing Attacks for Distributed UAVs | Yu Wang">
+  <meta property="og:description" content="Sensors and actuators are key control components of Unmanned Autonomous Vehicles (UAVs). UAVs use them in a feedback-based control loop with the software components to accomplish goals. Today, we know that UAVs are susceptible to multiple forms of sensor spoofing attacks such as false data injection via Man-in-the-Middle (MitM) attacks and counterfeit signal generation. In this paper we pose two questions (a) ``Can a group of networked, distributed, UAVs (i.e., swarm) provide protection against sensor spoofing attacks?&#39;&#39; and (b) ``can modeling swarms using data-driven techniques provide defense against sensor data injection attacks?&#39;&#39;. Using Software-In-The-Loop (SITL) simulations, we analyze the feasibility of learning the behavior of a UAV using a deep learning model. We use robustness testing and feasibility of data augmentation using Generative Adversarial Networks (GANs) for this purpose."><meta property="og:image" content="https://yuwang531.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://yuwang531.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-11-28T23:30:43&#43;00:00">
+  <meta property="article:published_time" content="2020-01-08T02:17:54&#43;00:00">
   
   <meta property="article:modified_time" content="2020-01-01T00:00:00&#43;00:00">
   
@@ -140,7 +140,7 @@
 
 
 
-  <title>Verifying PCTL Specifications on Markov Decision Processes via Reinforcement Learning | Yu Wang</title>
+  <title>Security Analysis against Spoofing Attacks for Distributed UAVs | Yu Wang</title>
 
 </head>
 
@@ -336,7 +336,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name" style="font-size: 150%;">Verifying PCTL Specifications on Markov Decision Processes via Reinforcement Learning</h1>
+  <h1 itemprop="name" style="font-size: 150%;">Security Analysis against Spoofing Attacks for Distributed UAVs</h1>
 
   
 
@@ -359,7 +359,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/yu-wang/">Yu Wang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/nima-roohi/">Nima Roohi</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/matthew-west/">Matthew West</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/mahesh-viswanathan/">Mahesh Viswanathan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/geir-e.-dullerud/">Geir E. Dullerud</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kyo-hyun-kim/">Kyo Hyun Kim</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/siddhartha-nalluri/">Siddhartha Nalluri</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ashish-kashinath/">Ashish Kashinath</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/yu-wang/">Yu Wang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sibin-mohan/">Sibin Mohan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/miroslav-pajic/">Miroslav Pajic</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/bo-li/">Bo Li</a></span>
 
   </div>
   
@@ -398,7 +398,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/&amp;text=Verifying%20PCTL%20Specifications%20on%20Markov%20Decision%20Processes%20via%20Reinforcement%20Learning" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://yuwang531.github.io/publication/kim-security-analysis-spoofing-2020/&amp;text=Security%20Analysis%20against%20Spoofing%20Attacks%20for%20Distributed%20UAVs" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -411,7 +411,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/&amp;t=Verifying%20PCTL%20Specifications%20on%20Markov%20Decision%20Processes%20via%20Reinforcement%20Learning" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://yuwang531.github.io/publication/kim-security-analysis-spoofing-2020/&amp;t=Security%20Analysis%20against%20Spoofing%20Attacks%20for%20Distributed%20UAVs" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -424,7 +424,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Verifying%20PCTL%20Specifications%20on%20Markov%20Decision%20Processes%20via%20Reinforcement%20Learning&amp;body=https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Security%20Analysis%20against%20Spoofing%20Attacks%20for%20Distributed%20UAVs&amp;body=https://yuwang531.github.io/publication/kim-security-analysis-spoofing-2020/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -437,7 +437,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/&amp;title=Verifying%20PCTL%20Specifications%20on%20Markov%20Decision%20Processes%20via%20Reinforcement%20Learning" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://yuwang531.github.io/publication/kim-security-analysis-spoofing-2020/&amp;title=Security%20Analysis%20against%20Spoofing%20Attacks%20for%20Distributed%20UAVs" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -450,7 +450,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Verifying%20PCTL%20Specifications%20on%20Markov%20Decision%20Processes%20via%20Reinforcement%20Learning%20https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Security%20Analysis%20against%20Spoofing%20Attacks%20for%20Distributed%20UAVs%20https://yuwang531.github.io/publication/kim-security-analysis-spoofing-2020/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -463,7 +463,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/&amp;title=Verifying%20PCTL%20Specifications%20on%20Markov%20Decision%20Processes%20via%20Reinforcement%20Learning" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://yuwang531.github.io/publication/kim-security-analysis-spoofing-2020/&amp;title=Security%20Analysis%20against%20Spoofing%20Attacks%20for%20Distributed%20UAVs" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -504,19 +504,13 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary my-1 mr-1" href="/files/yw_pctl20.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/wang-verifying-pctl-specifications-2020/cite.bib">
+        data-filename="/publication/kim-security-analysis-spoofing-2020/cite.bib">
   Cite
 </button>
 
@@ -546,7 +540,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" align="justify" style="font-size:90%" itemprop="text">We propose a new statistical verification technique for PCTL$*̂$ logic, which unifies Probabilistic Computational Tree Logic (PCTL) and Linear Time Logic (LTL), on labeled Markov Decision Processes (MDPs) with unknown transition probabilities using reinforcement learning. We first show that verifying a non-nested PCTL$̂$ formula on a MDP is equivalent to estimating the reachability probability of a goal set on the product MDP of the original MDP and a Muller automaton modeling the corresponding LTL specification. Then, we develop Q-learning algorithms to statistically estimate reachability probability on the product MDP, with the optimal policy identified and evaluated using the principle of optimism in the face of uncertainty (OFU). Specifically, we construct upper confidence bounds (UCB) for each state-action pair from previous samples, and explore the best action with the highest UCB. Using the OFU principle, we design termination conditions for any desired confidence level, and prove the correctness of the proposed algorithms. Finally, we evaluate the proposed algorithms on several case studies.</p>
+    <p class="pub-abstract" align="justify" style="font-size:90%" itemprop="text">Sensors and actuators are key control components of Unmanned Autonomous Vehicles (UAVs). UAVs use them in a feedback-based control loop with the software components to accomplish goals. Today, we know that UAVs are susceptible to multiple forms of sensor spoofing attacks such as false data injection via Man-in-the-Middle (MitM) attacks and counterfeit signal generation. In this paper we pose two questions (a) <code>Can a group of networked, distributed, UAVs (i.e., swarm) provide protection against sensor spoofing attacks?'' and (b)</code>can modeling swarms using data-driven techniques provide defense against sensor data injection attacks?&ldquo;. Using Software-In-The-Loop (SITL) simulations, we analyze the feasibility of learning the behavior of a UAV using a deep learning model. We use robustness testing and feasibility of data augmentation using Generative Adversarial Networks (GANs) for this purpose.</p>
     
 
     
@@ -576,7 +570,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>21st International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI) (Under Review)</em></div>
+          <div class="col-12 col-md-9"><em>Decentralized IoT Systems and Security</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -618,7 +612,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/yu-wang/"></a></h5>
+      <h5 class="card-title" itemprop="name"><a href="/authors/kyo-hyun-kim/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
