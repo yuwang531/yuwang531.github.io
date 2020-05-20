@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yuwang531.github.io/talk/20_05_20_icra/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/talk/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yuwang531.github.io/publication_types/1/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -158,12 +175,6 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yuwang531.github.io/talk/19_11_21_cps_pi/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
   </url>
@@ -174,14 +185,13 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/talk/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://yuwang531.github.io/talk/19_10_23_emsoft/</loc>
+    <lastmod>2019-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/talk/19_10_23_emsoft/</loc>
-    <lastmod>2019-10-13T00:00:00+00:00</lastmod>
+    <loc>https://yuwang531.github.io/talk/20_04_15_hscc/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
