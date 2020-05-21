@@ -44,11 +44,54 @@ There is a growing interest on formal methods based robotic planning for tempora
     </item>
     
     <item>
+      <title>HSCC&#39;20 (April 15-17)</title>
+      <link>https://yuwang531.github.io/talk/20_04_15_hscc/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/talk/20_04_15_hscc/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;
+My virtual presentation for HSCC&#39;20: 
+&lt;a href = https://labcloud.ddns.net/index.php/s/GFjJ2Tq3aJqmcHn&gt; 
+Slides
+&lt;/a&gt;
+and 
+&lt;a href = https://labcloud.ddns.net/index.php/s/8SkM9MxzYeCpDae&gt; 
+Video.
+&lt;/a&gt;
+&lt;/p&gt;
+
+
+&lt;small&gt;
+&lt;p&gt;&lt;b&gt;Title&lt;/b&gt;:
+Statistical Verification of Learning-Based Cyber-Physical Systems
+&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;:
+The use of Neural Network (NN)-based controllers has attracted significant attention in recent years. However, due to the complexity and non-linearity of such NN-based cyber-physical systems (CPS), existing verification techniques that employ exhaustive state-space search, face significant scalability challenges; this effectively limits their use for analyzes of real-world CPS. 
+Consequently, in this work, we focus on the use of Statistical Model Checking (SMC) for verifying complex NN-controlled CPS. Using an SMC approach based on Clopper-Pearson confidence levels, we verify from samples specifications that are captured by Signal Temporal Logic (STL) formulas. Specifically, we consider three CPS benchmarks with varying levels of plant and controller complexity, as well as the type of considered STL properties -- reachability property for a mountain car, safety property for a bipedal robot, and control performance of the closed-loop magnet levitation system.
+On these benchmarks, we show that SMC methods can be successfully used to provide high-assurance for learning-based CPS. 
+&lt;/p&gt;
+&lt;/small&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Control Synthesis from Linear Temporal Logic Specifications Using Model-Free Reinforcement Learning</title>
       <link>https://yuwang531.github.io/publication/bozkurt-control-synthesis-linear-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yuwang531.github.io/publication/bozkurt-control-synthesis-linear-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential Privacy for Sequential Algorithms</title>
+      <link>https://yuwang531.github.io/publication/wang-differential-privacy-sequential-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-differential-privacy-sequential-2020/</guid>
       <description></description>
     </item>
     
@@ -98,11 +141,11 @@ There is a growing interest on formal methods based robotic planning for tempora
     </item>
     
     <item>
-      <title>Verifying PCTL Specifications on Markov Decision Processes via Reinforcement Learning</title>
-      <link>https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/</link>
+      <title>Statistically Model Checking PCTL Specifications on Markov Decision Processes via Reinforcement Learning</title>
+      <link>https://yuwang531.github.io/publication/wang-statistically-model-checking-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-statistically-model-checking-2020/</guid>
       <description></description>
     </item>
     
@@ -180,40 +223,6 @@ for Cyber-Physical Systems&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;:
 Many important properties of cyber-physical systems (CPS) are defined upon the relationship between multiple executions simultaneously in continuous time. Examples include probabilistic fairness and sensitivity to modeling errors (i.e., parameters changes) for real-valued signals. These requirements can only be specified by hyperproperties. In this work, we focus on verifying probabilistic hyperproperties for CPS. To cover a wide range of modeling formalisms, we first propose a general model of probabilistic uncertain systems (PUSs) that unify commonly studied CPS models such as continuous-time Markov chains (CTMCs) and probabilistically parametrized Hybrid I/O Automata. To formally specify hyperproperties, we propose a new temporal logic, hyper probabilistic signal temporal logic (HyperPSTL) that serves as a hyper and probabilistic version of the conventional signal temporal logic (STL). Considering complexity of real-world systems that can be captured as PUSs, we adopt a statistical model checking (SMC) approach for their verification. We develop a new SMC technique based on the direct computation of the significance levels of statistical assertions for HyperPSTL specifications, which requires no a priori knowledge on the indifference margin. Then, we introduce SMC algorithms for HyperPSTL specifications on the joint probabilistic distribution of multiple paths, as well as specifications with nested probabilistic operators quantifying different paths, which cannot be handled by existing SMC algorithms. Finally, we show the effectiveness of our SMC algorithms on CPS benchmarks with varying levels of complexity, including the Toyota Powertrain Control System.&lt;/p&gt;
-&lt;/small&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>HSCC&#39;20 (April 15-17)</title>
-      <link>https://yuwang531.github.io/talk/20_04_15_hscc/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/talk/20_04_15_hscc/</guid>
-      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
-&lt;p&gt;
-I made a virtual presentation at HSCC &#39;20. Here are  
-&lt;a href = https://labcloud.ddns.net/index.php/s/GFjJ2Tq3aJqmcHn&gt; 
-the slides
-&lt;/a&gt;
-and 
-&lt;a href = https://labcloud.ddns.net/index.php/s/8SkM9MxzYeCpDae&gt; 
-the video.
-&lt;/a&gt;
-&lt;/p&gt;
-
-
-&lt;small&gt;
-&lt;p&gt;&lt;b&gt;Title&lt;/b&gt;:
-Statistical Verification of Learning-Based Cyber-Physical Systems
-&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;:
-The use of Neural Network (NN)-based controllers has attracted significant attention in recent years. However, due to the complexity and non-linearity of such NN-based cyber-physical systems (CPS), existing verification techniques that employ exhaustive state-space search, face significant scalability challenges; this effectively limits their use for analyzes of real-world CPS. 
-Consequently, in this work, we focus on the use of Statistical Model Checking (SMC) for verifying complex NN-controlled CPS. Using an SMC approach based on Clopper-Pearson confidence levels, we verify from samples specifications that are captured by Signal Temporal Logic (STL) formulas. Specifically, we consider three CPS benchmarks with varying levels of plant and controller complexity, as well as the type of considered STL properties -- reachability property for a mountain car, safety property for a bipedal robot, and control performance of the closed-loop magnet levitation system.
-On these benchmarks, we show that SMC methods can be successfully used to provide high-assurance for learning-based CPS. 
-&lt;/p&gt;
 &lt;/small&gt;
 &lt;/div&gt;
 </description>
@@ -330,6 +339,15 @@ Cyber-Physical Systems (CPS) operate in a wide range of applications, where thei
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yuwang531.github.io/publication/wang-verifying-stochastic-hybrid-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Verification and Differential Privacy in Cyber-Physical Systems</title>
+      <link>https://yuwang531.github.io/publication/wang-statistical-verification-differential-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-differential-2018/</guid>
       <description></description>
     </item>
     
@@ -465,6 +483,15 @@ Cyber-Physical Systems (CPS) operate in a wide range of applications, where thei
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yuwang531.github.io/publication/wang-stability-linear-autonomous-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of Linear Systems under Regular Switching Sequences</title>
+      <link>https://yuwang531.github.io/publication/wang-stability-linear-systems-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-stability-linear-systems-2014/</guid>
       <description></description>
     </item>
     
