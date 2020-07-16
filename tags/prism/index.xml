@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PRISM on Yu Wang</title>
+    <link>https://yuwang531.github.io/tags/prism/</link>
+    <description>Recent content in PRISM on Yu Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yuwang531.github.io/tags/prism/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistical Verification of PCTL Using Stratified Samples</title>
+      <link>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-pctl-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

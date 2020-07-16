@@ -6,125 +6,125 @@
     <description>Recent content in Miroslav Pajic on Yu Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yuwang531.github.io/authors/miroslav-pajic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Statistical Model Checking for Hyperproperties</title>
-      <link>https://yuwang531.github.io/publication/wang-statistical-model-checking-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/publication/wang-statistical-model-checking-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical Verification of Learning-Based Cyber-Physical Systems</title>
-      <link>https://yuwang531.github.io/publication/zarei-statistical-verification-learningbased-2020/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/publication/zarei-statistical-verification-learningbased-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Context-Aware Temporal Logic for Probabilistic Systems</title>
-      <link>https://yuwang531.github.io/publication/elfar-context-aware-temporal-logic-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <link>https://yuwang531.github.io/publication/2020-cav/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/elfar-context-aware-temporal-logic-2020/</guid>
+      <guid>https://yuwang531.github.io/publication/2020-cav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Model Checking for Hyperproperties</title>
+      <link>https://yuwang531.github.io/publication/2021-csf/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/2021-csf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Control Synthesis from Linear Temporal Logic Specifications Using Model-Free Reinforcement Learning</title>
-      <link>https://yuwang531.github.io/publication/bozkurt-control-synthesis-linear-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <link>https://yuwang531.github.io/publication/2020-icra-2/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/bozkurt-control-synthesis-linear-2020/</guid>
+      <guid>https://yuwang531.github.io/publication/2020-icra-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control Synthesis from Linear Temporal Logic Specifications Using Model-Free Reinforcement Learning</title>
+      <link>https://yuwang531.github.io/publication/2020-neurips/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/2020-neurips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hyperproperties for Robotics: Motion Planning via HyperLTL</title>
-      <link>https://yuwang531.github.io/publication/wang-hyperproperties-robotics-motion-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <link>https://yuwang531.github.io/publication/2020-icra/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-hyperproperties-robotics-motion-2020/</guid>
+      <guid>https://yuwang531.github.io/publication/2020-icra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Verification of Learning-Based Controlled Systems</title>
+      <link>https://yuwang531.github.io/publication/2020-hscc/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/2020-hscc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security Analysis against Spoofing Attacks for Distributed UAVs</title>
-      <link>https://yuwang531.github.io/publication/kim-security-analysis-spoofing-2020/</link>
+      <link>https://yuwang531.github.io/publication/2020-diss/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/kim-security-analysis-spoofing-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical Model Checking for Hyperproperties</title>
-      <link>https://yuwang531.github.io/publication/wang-statistical-model-checking-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/publication/wang-statistical-model-checking-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical Verification of Learning-Enabled Controlled Systems</title>
-      <link>https://yuwang531.github.io/publication/zarei-statistical-verification-learningenabled-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/publication/zarei-statistical-verification-learningenabled-2020/</guid>
+      <guid>https://yuwang531.github.io/publication/2020-diss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attack-Resilient Supervisory Control of Discrete-Event Systems</title>
-      <link>https://yuwang531.github.io/publication/wang-attackresilient-supervisory-control-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <link>https://yuwang531.github.io/publication/2019-tac/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-attackresilient-supervisory-control-2019/</guid>
+      <guid>https://yuwang531.github.io/publication/2019-tac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attack-Resilient Supervisory Control with Intermittently Secure Communication</title>
-      <link>https://yuwang531.github.io/publication/wang-attackresilient-supervisory-control-2019-a/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <link>https://yuwang531.github.io/publication/2019-cdc-2/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-attackresilient-supervisory-control-2019-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Security-Aware Synthesis Using Delayed-Action Games</title>
-      <link>https://yuwang531.github.io/publication/elfar-securityaware-synthesis-using-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/publication/elfar-securityaware-synthesis-using-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical Verification of Hyperproperties for Cyber-Physical Systems</title>
-      <link>https://yuwang531.github.io/publication/wang-statistical-verification-hyperproperties-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-hyperproperties-2019/</guid>
+      <guid>https://yuwang531.github.io/publication/2019-cdc-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supervisory Control of Discrete Event Systems in the Presence of Sensor and Actuator Attacks</title>
-      <link>https://yuwang531.github.io/publication/wang-supervisory-control-discrete-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <link>https://yuwang531.github.io/publication/2019-cdc/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-supervisory-control-discrete-2019/</guid>
+      <guid>https://yuwang531.github.io/publication/2019-cdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Verification of Hyperproperties for Cyber-Physical Systems</title>
+      <link>https://yuwang531.github.io/publication/2019-emsoft/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/2019-emsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security-Aware Synthesis Using Delayed-Action Games</title>
+      <link>https://yuwang531.github.io/publication/2019-cav/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/2019-cav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning for stable monotone dynamical systems</title>
+      <link>https://yuwang531.github.io/publication/2014-hicons/</link>
+      <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/2014-hicons/</guid>
       <description></description>
     </item>
     

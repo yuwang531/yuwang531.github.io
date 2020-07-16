@@ -13,64 +13,55 @@
     
     <item>
       <title>Differential Privacy for Sequential Algorithms</title>
-      <link>https://yuwang531.github.io/publication/wang-differential-privacy-sequential-2020/</link>
+      <link>https://yuwang531.github.io/publication/2020-dp/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-differential-privacy-sequential-2020/</guid>
+      <guid>https://yuwang531.github.io/publication/2020-dp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential Privacy and Minimum-Variance Unbiased Estimation in Multi-Agent Control Systems</title>
-      <link>https://yuwang531.github.io/publication/wang-differential-privacy-minimumvariance-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <link>https://yuwang531.github.io/publication/2017-wc/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-differential-privacy-minimumvariance-2017/</guid>
+      <guid>https://yuwang531.github.io/publication/2017-wc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential Privacy in Linear Distributed Control Systems: Entropy Minimizing Mechanisms and Performance Tradeoffs</title>
-      <link>https://yuwang531.github.io/publication/wang-differential-privacy-linear-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <link>https://yuwang531.github.io/publication/2017-tcns/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-differential-privacy-linear-2017/</guid>
+      <guid>https://yuwang531.github.io/publication/2017-tcns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Controller Synthesis for Linear Dynamical Systems with Adversaries</title>
-      <link>https://yuwang531.github.io/publication/huang-controller-synthesis-linear-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <link>https://yuwang531.github.io/publication/2016-hotsos/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/huang-controller-synthesis-linear-2016/</guid>
+      <guid>https://yuwang531.github.io/publication/2016-hotsos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Controller Synthesis with Inductive Proofs for Piecewise Linear Systems: An SMT-Based Algorithm</title>
-      <link>https://yuwang531.github.io/publication/huang-controller-synthesis-inductive-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <link>https://yuwang531.github.io/publication/2015-cdc/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/huang-controller-synthesis-inductive-2015/</guid>
+      <guid>https://yuwang531.github.io/publication/2015-cdc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entropy-Minimizing Mechanism for Differential Privacy of Discrete-Time Linear Feedback Systems</title>
-      <link>https://yuwang531.github.io/publication/wang-entropyminimizing-mechanism-differential-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <link>https://yuwang531.github.io/publication/2014-cdc/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-entropyminimizing-mechanism-differential-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Cost of Differential Privacy in Distributed Control Systems</title>
-      <link>https://yuwang531.github.io/publication/huang-cost-differential-privacy-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/publication/huang-cost-differential-privacy-2014/</guid>
+      <guid>https://yuwang531.github.io/publication/2014-cdc/</guid>
       <description></description>
     </item>
     

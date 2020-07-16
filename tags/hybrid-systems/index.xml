@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hybrid systems on Yu Wang</title>
+    <link>https://yuwang531.github.io/tags/hybrid-systems/</link>
+    <description>Recent content in hybrid systems on Yu Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yuwang531.github.io/tags/hybrid-systems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistical Verification of the Toyota Powertrain Control Verification Benchmark</title>
+      <link>https://yuwang531.github.io/publication/roohi-statistical-verification-toyota-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/roohi-statistical-verification-toyota-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

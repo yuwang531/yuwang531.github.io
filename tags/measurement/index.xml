@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Measurement on Yu Wang</title>
+    <link>https://yuwang531.github.io/tags/measurement/</link>
+    <description>Recent content in Measurement on Yu Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yuwang531.github.io/tags/measurement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Verifying Continuous-Time Stochastic Hybrid Systems via Mori-Zwanzig Model Reduction</title>
+      <link>https://yuwang531.github.io/publication/wang-verifying-continuoustime-stochastic-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-verifying-continuoustime-stochastic-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy-Minimizing Mechanism for Differential Privacy of Discrete-Time Linear Feedback Systems</title>
+      <link>https://yuwang531.github.io/publication/wang-entropyminimizing-mechanism-differential-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-entropyminimizing-mechanism-differential-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,26 +6,35 @@
     <description>Recent content in Alper Kamil Bozkurt on Yu Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yuwang531.github.io/authors/alper-kamil-bozkurt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Control Synthesis from Linear Temporal Logic Specifications Using Model-Free Reinforcement Learning</title>
-      <link>https://yuwang531.github.io/publication/bozkurt-control-synthesis-linear-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <link>https://yuwang531.github.io/publication/2020-icra-2/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/bozkurt-control-synthesis-linear-2020/</guid>
+      <guid>https://yuwang531.github.io/publication/2020-icra-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control Synthesis from Linear Temporal Logic Specifications Using Model-Free Reinforcement Learning</title>
+      <link>https://yuwang531.github.io/publication/2020-neurips/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/2020-neurips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attack-Resilient Supervisory Control of Discrete-Event Systems</title>
-      <link>https://yuwang531.github.io/publication/wang-attackresilient-supervisory-control-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <link>https://yuwang531.github.io/publication/2019-tac/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-attackresilient-supervisory-control-2019/</guid>
+      <guid>https://yuwang531.github.io/publication/2019-tac/</guid>
       <description></description>
     </item>
     
