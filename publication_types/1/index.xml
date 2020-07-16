@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Differential Privacy for Sequential Algorithms</title>
+      <link>https://yuwang531.github.io/publication/wang-differential-privacy-sequential-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-differential-privacy-sequential-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hyperproperties for Robotics: Motion Planning via HyperLTL</title>
       <link>https://yuwang531.github.io/publication/wang-hyperproperties-robotics-motion-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -66,11 +75,11 @@
     </item>
     
     <item>
-      <title>Verifying PCTL Specifications on Markov Decision Processes via Reinforcement Learning</title>
-      <link>https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/</link>
+      <title>Statistically Model Checking PCTL Specifications on Markov Decision Processes via Reinforcement Learning</title>
+      <link>https://yuwang531.github.io/publication/wang-statistically-model-checking-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-statistically-model-checking-2020/</guid>
       <description></description>
     </item>
     

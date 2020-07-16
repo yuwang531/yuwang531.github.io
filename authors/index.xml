@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>Hussein Sibai</title>
+      <link>https://yuwang531.github.io/authors/hussein-sibai/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/authors/hussein-sibai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kyo Hyun Kim</title>
       <link>https://yuwang531.github.io/authors/kyo-hyun-kim/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -129,6 +138,15 @@
     </item>
     
     <item>
+      <title>Sayan Mitra</title>
+      <link>https://yuwang531.github.io/authors/sayan-mitra/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/authors/sayan-mitra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sibin Mohan</title>
       <link>https://yuwang531.github.io/authors/sibin-mohan/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -179,15 +197,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yuwang531.github.io/authors/xuan-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sayan Mitra</title>
-      <link>https://yuwang531.github.io/authors/sayan-mitra/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/authors/sayan-mitra/</guid>
       <description></description>
     </item>
     
@@ -244,9 +253,9 @@
       <guid>https://yuwang531.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a postdoctoral associate at &lt;a href=&#34;https://cpsl.pratt.duke.edu/&#34; target=&#34;_blank&#34;&gt;Cyber-Physical Systems Lab&lt;/a&gt; at Duke University. My research focuses on the analysis and design of high-assurance autonomy using control theory, formal method, statistical methods, and machine learning.&lt;/p&gt;
 
-&lt;p&gt;&lt;span style=&#34;color:#f76497&#34;&gt;
+&lt;!-- &lt;span style=&#34;color:#f76497&#34;&gt;
 I am on the academic job market this year!
-&lt;/span&gt;&lt;/p&gt;
+&lt;/span&gt; --&gt;
 </description>
     </item>
     

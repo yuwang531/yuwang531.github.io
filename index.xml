@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Differential Privacy for Sequential Algorithms</title>
+      <link>https://yuwang531.github.io/publication/wang-differential-privacy-sequential-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-differential-privacy-sequential-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hyperproperties for Robotics: Motion Planning via HyperLTL</title>
       <link>https://yuwang531.github.io/publication/wang-hyperproperties-robotics-motion-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -66,124 +75,12 @@
     </item>
     
     <item>
-      <title>Verifying PCTL Specifications on Markov Decision Processes via Reinforcement Learning</title>
-      <link>https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/</link>
+      <title>Statistically Model Checking PCTL Specifications on Markov Decision Processes via Reinforcement Learning</title>
+      <link>https://yuwang531.github.io/publication/wang-statistically-model-checking-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yuwang531.github.io/publication/wang-verifying-pctl-specifications-2020/</guid>
+      <guid>https://yuwang531.github.io/publication/wang-statistically-model-checking-2020/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>NSF CPS PI Meeting @ Arlington (Nov 21-22)</title>
-      <link>https://yuwang531.github.io/talk/19_11_21_cps_pi/</link>
-      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/talk/19_11_21_cps_pi/</guid>
-      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
-&lt;p&gt;
-I will attend the NSF Cyber-Physical Systems PI Meeting at Arlington, VA.
-&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Southeast Control Conference @ Atlanta (Nov 14-15)</title>
-      <link>https://yuwang531.github.io/talk/19_11_14_scc/</link>
-      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/talk/19_11_14_scc/</guid>
-      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
-&lt;p&gt;
-I will give a &lt;font color=&#34;#f76497&#34;&gt;postdoc keynote speech&lt;/font&gt;
-at the 
-&lt;a href = http://scc.ece.gatech.edu/&gt;
-Southeast Control Conference
-&lt;/a&gt;
-on my recent work
-&lt;a href = https://arxiv.org/abs/1906.07253&gt; 
-statistical verification of hyperproperties for
-cyber-physical systems.
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;small&gt;
-&lt;p&gt;&lt;b&gt;Title&lt;/b&gt;:
-Statistical Verification of Hyperproperties
-for Cyber-Physical Systems&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;:
-Many important properties of cyber-physical systems (CPS) are defined upon the relationship between multiple executions simultaneously in continuous time. Examples include probabilistic fairness and sensitivity to modeling errors (i.e., parameters changes) for real-valued signals. These requirements can only be specified by hyperproperties. In this talk, I will first introduce new hyper probabilistic temporal logics that formally capture these hyperproperties. Then, I will introduce new statistical model checking (SMC) techniques for verifying hyper logic formulas. Finally, I will demonstrate the efficiency of the SMC algorithms on CPS benchmarks with varying levels of complexity.&lt;/p&gt;
-&lt;/small&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Embedded System Week @ New York City (Oct 13-15)</title>
-      <link>https://yuwang531.github.io/talk/19_10_23_emsoft/</link>
-      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/talk/19_10_23_emsoft/</guid>
-      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
-&lt;p&gt;
-I will present my paper on 
-&lt;a href = https://arxiv.org/abs/1906.07253&gt; 
-statistical verification of hyperproperties
-&lt;/a&gt;
-at the
-&lt;a href = https://esweek.org/emsoft/about&gt;
-International Conference on Embedded Software (EMSOFT).
-&lt;/a&gt;
-This work is one of the three
-&lt;font color=&#34;#f76497&#34;&gt;best paper finalists.&lt;/font&gt;
-&lt;/p&gt;
-
-
-&lt;small&gt;
-&lt;p&gt;&lt;b&gt;Talk Title&lt;/b&gt;:
-Statistical Verification of Hyperproperties
-for Cyber-Physical Systems&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;:
-Many important properties of cyber-physical systems (CPS) are defined upon the relationship between multiple executions simultaneously in continuous time. Examples include probabilistic fairness and sensitivity to modeling errors (i.e., parameters changes) for real-valued signals. These requirements can only be specified by hyperproperties. In this work, we focus on verifying probabilistic hyperproperties for CPS. To cover a wide range of modeling formalisms, we first propose a general model of probabilistic uncertain systems (PUSs) that unify commonly studied CPS models such as continuous-time Markov chains (CTMCs) and probabilistically parametrized Hybrid I/O Automata. To formally specify hyperproperties, we propose a new temporal logic, hyper probabilistic signal temporal logic (HyperPSTL) that serves as a hyper and probabilistic version of the conventional signal temporal logic (STL). Considering complexity of real-world systems that can be captured as PUSs, we adopt a statistical model checking (SMC) approach for their verification. We develop a new SMC technique based on the direct computation of the significance levels of statistical assertions for HyperPSTL specifications, which requires no a priori knowledge on the indifference margin. Then, we introduce SMC algorithms for HyperPSTL specifications on the joint probabilistic distribution of multiple paths, as well as specifications with nested probabilistic operators quantifying different paths, which cannot be handled by existing SMC algorithms. Finally, we show the effectiveness of our SMC algorithms on CPS benchmarks with varying levels of complexity, including the Toyota Powertrain Control System.&lt;/p&gt;
-&lt;/small&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Visit Dept. of Computer Science @ Iowa State University (Sept 23-27)</title>
-      <link>https://yuwang531.github.io/talk/19_09_23_isu/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuwang531.github.io/talk/19_09_23_isu/</guid>
-      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
-&lt;p&gt;
-I will visit 
-&lt;a href = http://web.cs.iastate.edu/~borzoo/&gt; 
-Prof. Borzoo Bonakdarpour 
-&lt;/a&gt;
-at Department of Computer Science 
-at Iowa State University,
-and present my previous work on cyber-physical security
-at the
-&lt;a href = https://www.cs.iastate.edu/colloquium-dr-yu-wang&gt;
-Computer Science Colloquium.
-&lt;/a&gt;
-&lt;/p&gt;
-
-
-&lt;small&gt;
-&lt;p&gt;&lt;b&gt;Title&lt;/b&gt;:
-Verifying the Security of Cyber-Physical Systems&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;:
-Cyber-Physical Systems (CPS) operate in a wide range of applications, where their security is a major concern. Verifying security properties, commonly specified by temporal logics, can be difficult, due to either the lack of accurate models or the models’ complexity. In this talk, several recent efforts on addressing this problem will be presented. First, I will present a new model reduction method for building approximate bisimulations between complex CPS and finite state Markov chains. Then, I will present a few new statistical model checking techniques using anti-correlated samples and reinforcement learning.&lt;/p&gt;
-&lt;/small&gt;
-&lt;/div&gt;
-</description>
     </item>
     
     <item>
@@ -264,6 +161,15 @@ Cyber-Physical Systems (CPS) operate in a wide range of applications, where thei
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yuwang531.github.io/publication/wang-verifying-stochastic-hybrid-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Verification and Differential Privacy in Cyber-Physical Systems</title>
+      <link>https://yuwang531.github.io/publication/wang-statistical-verification-differential-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-statistical-verification-differential-2018/</guid>
       <description></description>
     </item>
     
@@ -399,6 +305,15 @@ Cyber-Physical Systems (CPS) operate in a wide range of applications, where thei
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yuwang531.github.io/publication/wang-stability-linear-autonomous-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of Linear Systems under Regular Switching Sequences</title>
+      <link>https://yuwang531.github.io/publication/wang-stability-linear-systems-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-stability-linear-systems-2014/</guid>
       <description></description>
     </item>
     
