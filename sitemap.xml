@@ -4,7 +4,101 @@
   
   <url>
     <loc>https://yuwang531.github.io/publication_types/1/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/borzoo-bonakdarpour/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/tags/computer-science-cryptography-and-security/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/tags/computer-science-formal-languages-and-automata-theory/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/tags/computer-science-logic-in-computer-science/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/miroslav-pajic/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication_types/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/siddhartha-nalluri/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/wang-statistical-model-checking-2021/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/tags/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/yu-wang/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/mojtaba-zarei/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/zarei-statistical-verification-learningbased-2020/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/tags/verify-nn-cps/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -21,21 +115,32 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/authors/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yuwang531.github.io/authors/bo-li/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/authors/borzoo-bonakdarpour/</loc>
+    <loc>https://yuwang531.github.io/tags/computer-science-computer-science-and-game-theory/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/tags/computer-science-software-engineering/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/tags/computer-science-systems-and-control/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/elfar-context-aware-temporal-logic-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -84,6 +189,12 @@
   </url>
   
   <url>
+    <loc>https://yuwang531.github.io/authors/mahmoud-elfar/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yuwang531.github.io/authors/matthew-west/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -96,31 +207,7 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/authors/miroslav-pajic/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/authors/mojtaba-zarei/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yuwang531.github.io/authors/nima-roohi/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication_types/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -148,12 +235,6 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/authors/siddhartha-nalluri/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yuwang531.github.io/publication/wang-statistical-model-checking-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -166,18 +247,6 @@
   <url>
     <loc>https://yuwang531.github.io/publication/wang-statistically-model-checking-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/authors/yu-wang/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -216,12 +285,6 @@
   <url>
     <loc>https://yuwang531.github.io/publication/wang-attackresilient-supervisory-control-2019-a/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/authors/mahmoud-elfar/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -382,11 +445,6 @@
   
   <url>
     <loc>https://yuwang531.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,37 @@
     <description>Recent content in 1 on Yu Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yuwang531.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Statistical Model Checking for Hyperproperties</title>
+      <link>https://yuwang531.github.io/publication/wang-statistical-model-checking-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/wang-statistical-model-checking-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Verification of Learning-Based Cyber-Physical Systems</title>
+      <link>https://yuwang531.github.io/publication/zarei-statistical-verification-learningbased-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/zarei-statistical-verification-learningbased-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-Aware Temporal Logic for Probabilistic Systems</title>
+      <link>https://yuwang531.github.io/publication/elfar-context-aware-temporal-logic-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/elfar-context-aware-temporal-logic-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Control Synthesis from Linear Temporal Logic Specifications Using Model-Free Reinforcement Learning</title>
