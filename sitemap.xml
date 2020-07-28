@@ -178,7 +178,7 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/publication/2020-icra-2/</loc>
+    <loc>https://yuwang531.github.io/publication/2020-icra-bozkurt/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -194,6 +194,12 @@
   
   <url>
     <loc>https://yuwang531.github.io/authors/michael-zavlanos/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/qitong-gao/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -420,12 +426,6 @@
   <url>
     <loc>https://yuwang531.github.io/publication/2014-hicons/</loc>
     <lastmod>2014-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/authors/qitong-gao/</loc>
-    <lastmod>2014-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
