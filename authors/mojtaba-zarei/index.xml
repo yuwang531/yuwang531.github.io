@@ -6,10 +6,19 @@
     <description>Recent content in Mojtaba Zarei on Yu Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yuwang531.github.io/authors/mojtaba-zarei/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Probabilistic Conformance for Cyber-Physical Systems</title>
+      <link>https://yuwang531.github.io/publication/2021-iccps-conformance/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/2021-iccps-conformance/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Statistical Verification of Learning-Based Controlled Systems</title>

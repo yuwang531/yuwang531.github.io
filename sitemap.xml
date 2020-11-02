@@ -4,19 +4,93 @@
   
   <url>
     <loc>https://yuwang531.github.io/publication_types/1/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/alper-kamil-bozkurt/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yuwang531.github.io/authors/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yuwang531.github.io/authors/borzoo-bonakdarpour/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/michael-zavlanos/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/miroslav-pajic/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/2020-icra-sg/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/mojtaba-zarei/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/2021-iccps-hyper/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/2021-iccps-conformance/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication_types/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/publication/2020-icra-sp/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/tzu-han-hsu/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/authors/yu-wang/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuwang531.github.io/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,25 +154,7 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/authors/miroslav-pajic/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yuwang531.github.io/authors/nima-roohi/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication_types/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/publication/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -121,18 +177,6 @@
   
   <url>
     <loc>https://yuwang531.github.io/tags/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/authors/yu-wang/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -172,12 +216,6 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/authors/alper-kamil-bozkurt/</loc>
-    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yuwang531.github.io/publication/2020-icra-bozkurt/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url>
@@ -193,20 +231,8 @@
   </url>
   
   <url>
-    <loc>https://yuwang531.github.io/authors/michael-zavlanos/</loc>
-    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yuwang531.github.io/authors/qitong-gao/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuwang531.github.io/authors/mojtaba-zarei/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

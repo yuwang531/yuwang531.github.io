@@ -6,10 +6,19 @@
     <description>Recent content in Michael Zavlanos on Yu Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yuwang531.github.io/authors/michael-zavlanos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Model-Free Reinforcement Learning for Stochastic Games with Linear Temporal Logic Objectives</title>
+      <link>https://yuwang531.github.io/publication/2020-icra-sg/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuwang531.github.io/publication/2020-icra-sg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Control Synthesis from Linear Temporal Logic Specifications Using Model-Free Reinforcement Learning</title>
